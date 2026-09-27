@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 92" role="img" aria-label="HaloNest Smart Home">
+  <g fill="none" stroke="#f4c451" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- extended roofline -->
+    <path d="M8 32 L72 3 L136 32"/>
+    <!-- small left-side chimney made from the architectural detail -->
+    <path d="M24 23 V8 H36 V28"/>
+    <path d="M27 12 H31 M27 17 H31 M27 22 H31" stroke-width="3"/>
+  </g>
+  <text x="20" y="66" font-family="Inter, Arial, Helvetica, sans-serif" font-size="47" font-weight="600" letter-spacing="-2">
+    <tspan fill="#f7f7f4">Halo</tspan><tspan fill="#f4c451">Nest</tspan>
+  </text>
+  <text x="20" y="84" font-family="Inter, Arial, Helvetica, sans-serif" font-size="10" font-weight="500" fill="#f7f7f4">Where Sound, Light &amp; Technology Come Alive</text>
+</svg>
